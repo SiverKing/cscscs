@@ -51,8 +51,7 @@ def 发送消息(app_id,app_secret,用户):
     显示内容=''
     url = 'https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=%s&secret=%s'%(app_id,app_secret)
     print('url' + url)
-    # access_token = requests.get(url).json()['access_token']
-    access_token = '60_4ax1WlZyHZmY_2NGI3CpjM6nHHkF8vaJvrytOXqF-ZkMMitAbw4YtPNoimjmEaom1kk7lHLUm8JwpViYdmaMF6ArYWenzoRteiTa9y5iFLxtpcWfLq0O8vrKEWRNxKzfOaTmUnk73rl5csTkDSTcAGAIXY'
+    access_token = requests.get(url).json()['access_token']
     print('登录令牌：' + access_token)
     
     week_list = ['星期一', '星期二', '星期三', '星期四', '星期五', '星期六','星期日']
