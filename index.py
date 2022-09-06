@@ -7,7 +7,17 @@ User=[
         '用户列表' : [
             {
                 '用户ID' : 'oA0y_6t9ri1dSzy_QRcyXY-qeo6k',
-                '模块ID' : '0KiDNxq4fwRgbk7ldI6QlBinuPq3ty8dn9ZOd5egBcg',
+                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
+                '省份' : '浙江',#对应另一个文件查找
+                '城市' : '宁波',#对应另一个文件查找
+                '生日' : {
+                    '祯':'2004-5-30',
+                    '威':'2004-6-28',
+                },
+            },
+                   {
+                '用户ID' : 'oA0y_6sX8Amk5T-icsa3w_mMZbVU',
+                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
                 '省份' : '浙江',#对应另一个文件查找
                 '城市' : '宁波',#对应另一个文件查找
                 '生日' : {
