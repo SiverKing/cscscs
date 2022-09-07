@@ -7,7 +7,7 @@ User=[
         '用户列表' : [
             {
                 '用户ID' : 'oA0y_6t9ri1dSzy_QRcyXY-qeo6k',
-                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
+                '模块ID' : 'tGE9wnY61xXzkzG4XQdTB7uuBJZ5OXnvmr9jaLes0-M',
                 '省份' : '浙江',#对应另一个文件查找
                 '城市' : '丽水',#对应另一个文件查找
                 '生日' : {
@@ -17,7 +17,7 @@ User=[
             },
             {
                 '用户ID' : 'oA0y_6sX8Amk5T-icsa3w_mMZbVU',
-                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
+                '模块ID' : 'tGE9wnY61xXzkzG4XQdTB7uuBJZ5OXnvmr9jaLes0-M',
                 '省份' : '浙江',#对应另一个文件查找
                 '城市' : '丽水',#对应另一个文件查找
                 '生日' : {
@@ -27,16 +27,7 @@ User=[
             },
             {
                 '用户ID' : 'oA0y_6uXMjbcYU2ebsW9jMo3JomU',
-                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
-                '省份' : '浙江',#对应另一个文件查找
-                '城市' : '台州',#对应另一个文件查找
-                '生日' : {
-                    '涵':'2004-3-31',
-                },
-            },
-            {
-                '用户ID' : 'oA0y_6hNkPRhQSLWbxonULHDfAYw',
-                '模块ID' : 'x_wISf46mab5-_WqPr2qFpwjFHmMOoaBQq_HbVaVIgY',
+                '模块ID' : 'tGE9wnY61xXzkzG4XQdTB7uuBJZ5OXnvmr9jaLes0-M',
                 '省份' : '浙江',#对应另一个文件查找
                 '城市' : '台州',#对应另一个文件查找
                 '生日' : {
